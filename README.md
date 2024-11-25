@@ -12,4 +12,4 @@ That command will run BE on port 7285 you can access the swagger on https://loca
 To start FE you position yourself in terminal in flight-search-app-fe and firstly run ```npm i``` and after that ```npm run dev```
 That command will run FE on port 3000
 
-You can then access the app on http://localhost:3000/flights
+You can then access the app on http://localhost:3000/flights where you can start using the app
